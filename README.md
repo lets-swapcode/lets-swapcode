@@ -1,4 +1,3 @@
-[![MasterHead](https://i.pinimg.com/originals/93/0a/14/930a14e6443a1bcab45d64d33b8897be.gif)](www.linkedin.com/in/harsh-surati-5b63a6108)
 <h1 align="center">Hi 👋, I'm Harsh Surati</h1>
 <h3 align="center">A passionate Frontend developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif">
