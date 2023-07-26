@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Harsh Surati</h1>
-<h3 align="center">A passionate Frontend developer from India.</h3>
+<h3 align="center">A passionate developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif">
 
-- 🔭 I’m currently working on [JioMeet](https://apps.apple.com/in/app/jiomeet/id1507770643).
+- ☯️ I am working on developing our own Media Engine library on top of [MediaSoup](https://mediasoup.org) and [WebRTC](https://webrtc.googlesource.com/src/).
 
-- 🏢 I’m currently working as a **Lead macOS developer** at **Reliance Jio**.
+- 🔭 I have developed [JioMeet](https://apps.apple.com/in/app/jiomeet/id1507770643) which is a Video Conferencing app supports HD audio/video calling, screensharing and many other features. 
+
+- 🏢 I’m currently working as a **Lead Apple developer** at **Reliance Jio**.
 
 - 👨‍💻 My expertise are **macOS, iOS development**.
 
