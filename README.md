@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif">
 
-- ☯️ I am working on developing our own Media Engine library on top of [MediaSoup](https://mediasoup.org) and [WebRTC](https://webrtc.googlesource.com/src/).
+- ☯️ I am working on developing our own Media Engine library on top of [MediaSoup](https://mediasoup.org) and [WebRTC](https://webrtc.googlesource.com/src/), including a virtual background processor with the help of [Google MLKit Selfie Segmentation library](https://developers.google.com/ml-kit/vision/selfie-segmentation).
 
 - 🔭 I have developed [JioMeet](https://apps.apple.com/in/app/jiomeet/id1507770643) which is a Video Conferencing app supports HD audio/video calling, screensharing and many other features. 
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **surati.harsh@gmail.com**.
 
-- 📄 Know about my experiences [here](https://docs.google.com/document/d/1sfbTqqQbx4ukOejQ7ISAh6xVfHjmKcL0/edit?usp=sharing&ouid=108660105125671873293&rtpof=true&sd=true).
+- 📄 Know about my experiences [here](https://docs.google.com/document/d/1GNL8o6U61wvuNajcpI1xNTqMi9NjLCR02it_kcfmn4Y/edit?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
